@@ -2,7 +2,7 @@
    * Create By Mr JOHAN.
    * Recode By Mr JOHAN
    * Contact Me on wa.me/1(210)9871223
-   * Follow https://github.com/nazedev
+   * Follow Me https://instagram.com/mr_johan_lee
 */
 
 const fs = require('fs')
